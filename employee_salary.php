@@ -37,11 +37,11 @@
                         <option value="Designer">Designer</option>
                         <option value="Tester">Tester</option>
                     </select>
-                    <button type="submit" class="btn btn-primary my-1">Filter</button>
+                    <button type="submit" style="background-color: #0f4a3c; color: white;" class="btn btn-primary my-1">Filter</button>
                 </form>
             </div>
             <div class="col-md-4 text-right">
-                <button class="btn btn-success" data-toggle="modal" data-target="#addSalaryModal">Add Salary</button>
+                <button class="btn" style="background-color: #0f4a3c; color: white;" data-toggle="modal" data-target="#addSalaryModal">Add Salary</button>
             </div>
         </div>
         <table id="employeeTable" class="table table-bordered table-hover" style="width:100%">
@@ -180,7 +180,7 @@
                         </div>
 
                         <div class="text-center">
-                            <button type="submit" class="btn btn-primary">Submit</button>
+                            <button type="submit" style="background-color: #0f4a3c; color: white;" class="btn btn-primary">Submit</button>
                         </div>
                     </form>
                 </div>
@@ -273,7 +273,7 @@
                         </div>
 
                         <div class="text-center">
-                            <button type="submit" class="btn btn-primary">Submit</button>
+                            <button type="submit" style="background-color: #0f4a3c; color: white;" class="btn btn-primary">Submit</button>
                         </div>
                     </form>
                 </div>

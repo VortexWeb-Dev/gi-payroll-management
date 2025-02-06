@@ -58,7 +58,7 @@
             <div class="tab-pane fade show active" id="additions" role="tabpanel" aria-labelledby="additions-tab">
                 <div class="d-flex justify-content-between mt-3">
                     <h4>Additions</h4>
-                    <button class="btn btn-primary" data-toggle="modal" data-target="#addAdditionModal">Add
+                    <button style="background-color: #0f4a3c; color: white;" class="btn btn-primary" data-toggle="modal" data-target="#addAdditionModal">Add
                         Addition</button>
                 </div>
                 <table class="table table-bordered mt-2">
@@ -99,7 +99,7 @@
             <div class="tab-pane fade" id="overtime" role="tabpanel" aria-labelledby="overtime-tab">
                 <div class="d-flex justify-content-between mt-3">
                     <h4>Overtime</h4>
-                    <button class="btn btn-primary" data-toggle="modal" data-target="#addOvertimeModal">Add
+                    <button style="background-color: #0f4a3c; color: white;" class="btn btn-primary" data-toggle="modal" data-target="#addOvertimeModal">Add
                         Overtime</button>
                 </div>
                 <table class="table table-bordered mt-2">
@@ -140,7 +140,7 @@
             <div class="tab-pane fade" id="deductions" role="tabpanel" aria-labelledby="deductions-tab">
                 <div class="d-flex justify-content-between mt-3">
                     <h4>Deductions</h4>
-                    <button class="btn btn-primary" data-toggle="modal" data-target="#addDeductionModal">Add
+                    <button style="background-color: #0f4a3c; color: white;" class="btn btn-primary" data-toggle="modal" data-target="#addDeductionModal">Add
                         Deduction</button>
                 </div>
                 <table class="table table-bordered mt-2">
@@ -238,7 +238,7 @@
                                 </select>
                             </div>
                         </div> -->
-                        <button type="submit" class="btn btn-primary">Add</button>
+                        <button type="submit" style="background-color: #0f4a3c; color: white;" class="btn btn-primary">Add</button>
                     </form>
                 </div>
             </div>
@@ -280,7 +280,7 @@
                                 </div>
                             </div>
                         </div>
-                        <button type="submit" class="btn btn-primary">Add</button>
+                        <button type="submit" style="background-color: #0f4a3c; color: white;" class="btn btn-primary">Add</button>
                     </form>
                 </div>
             </div>
@@ -315,7 +315,7 @@
                                 </div>
                             </div>
                         </div>
-                        <button type="submit" class="btn btn-primary">Add</button>
+                        <button type="submit" style="background-color: #0f4a3c; color: white;" class="btn btn-primary">Add</button>
                     </form>
                 </div>
             </div>
@@ -351,7 +351,7 @@
                             <label for="editAdditionUnitAmount">Default/Unit Amount</label>
                             <input type="text" class="form-control" id="editAdditionUnitAmount" name="editAdditionUnitAmount">
                         </div>
-                        <button type="submit" class="btn btn-primary">Save changes</button>
+                        <button type="submit" style="background-color: #0f4a3c; color: white;" class="btn btn-primary">Save changes</button>
                     </form>
                 </div>
             </div>
@@ -387,7 +387,7 @@
                             <label for="editOvertimeRate">Rate</label>
                             <input type="text" class="form-control" id="editOvertimeRate" name="editOvertimeRate">
                         </div>
-                        <button type="submit" class="btn btn-primary">Save changes</button>
+                        <button type="submit" style="background-color: #0f4a3c; color: white;" class="btn btn-primary">Save changes</button>
                     </form>
                 </div>
             </div>
@@ -416,7 +416,7 @@
                             <label for="editDeductionUnitAmount">Default/ Unit Amount</label>
                             <input type="text" class="form-control" id="editDeductionUnitAmount" name="editDeductionUnitAmount">
                         </div>
-                        <button type="submit" class="btn btn-primary">Save changes</button>
+                        <button type="submit" style="background-color: #0f4a3c; color: white;" class="btn btn-primary">Save changes</button>
                     </form>
                 </div>
             </div>
